@@ -2,7 +2,7 @@
 Projeto criado durante a **Imersão Alura + Google Gemini**.
 
 <p align="center">
-  <img src="./bot-dreams-preview.png" alt="Preview do Bot Dreams" width="500"/>
+  <img src="./bot-dreams-preview.png" alt="Preview do Bot Dreams" width="400"/>
 </p>
 ## 🧠 Sobre o projeto  
 O **Bot Dreams** é uma aplicação experimental que simula um analista freudiano virtual. 
