@@ -17,3 +17,5 @@ os desejos reprimidos, simbolismos e mecanismos de defesa.
 - Interpretação automatizada baseada na psicanálise.
 - Respostas geradas por múltiplos agentes com papéis definidos.
 
+Link do Projeto:
+https://colab.research.google.com/drive/1mGSLXjbPd1Dx1pOTYKRZmuX4IXLWMUGf#scrollTo=6xzI6LKzxxnN
